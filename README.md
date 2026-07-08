@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Parul-kumari089/Python-DSA/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Parul-kumari089/Python-DSA/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/Parul-kumari089/Python-DSA/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->

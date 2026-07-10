@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parul-kumari089/Python-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Parul-kumari089/Python-DSA/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Parul-kumari089/Python-DSA/tree/master/1108-defanging-an-ip-address) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

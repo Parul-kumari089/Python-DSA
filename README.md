@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
+| [2485-find-the-pivot-integer](https://github.com/Parul-kumari089/Python-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Parul-kumari089/Python-DSA/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

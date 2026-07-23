@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Parul-kumari089/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Parul-kumari089/Python-DSA/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Parul-kumari089/Python-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Parul-kumari089/Python-DSA/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Parul-kumari089/Python-DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Parul-kumari089/Python-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Parul-kumari089/Python-DSA/tree/master/0055-jump-game) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Parul-kumari089/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Parul-kumari089/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Parul-kumari089/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Parul-kumari089/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Parul-kumari089/Python-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Parul-kumari089/Python-DSA/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Parul-kumari089/Python-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Parul-kumari089/Python-DSA/tree/master/0242-valid-anagram) |

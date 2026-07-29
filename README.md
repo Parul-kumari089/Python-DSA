@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Parul-kumari089/Python-DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Parul-kumari089/Python-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2485-find-the-pivot-integer](https://github.com/Parul-kumari089/Python-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Parul-kumari089/Python-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Parul-kumari089/Python-DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Prefix Sum

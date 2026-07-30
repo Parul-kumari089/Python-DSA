@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Parul-kumari089/Python-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/Parul-kumari089/Python-DSA/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2485-find-the-pivot-integer](https://github.com/Parul-kumari089/Python-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/Parul-kumari089/Python-DSA/tree/master/2162-minimum-cost-to-set-cooking-time) |
 <!---LeetCode Topics End-->

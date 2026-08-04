@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Parul-kumari089/Python-DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/Parul-kumari089/Python-DSA/tree/master/1108-defanging-an-ip-address) |
+| [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Design
 |  |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->

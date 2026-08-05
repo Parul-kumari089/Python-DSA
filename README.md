@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Parul-kumari089/Python-DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Parul-kumari089/Python-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Parul-kumari089/Python-DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Parul-kumari089/Python-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parul-kumari089/Python-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Parul-kumari089/Python-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Parul-kumari089/Python-DSA/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Parul-kumari089/Python-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Parul-kumari089/Python-DSA/tree/master/0242-valid-anagram) |
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

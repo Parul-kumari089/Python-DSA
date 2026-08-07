@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Parul-kumari089/Python-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 ## Design
 |  |
 | ------- |

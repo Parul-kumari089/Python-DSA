@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Parul-kumari089/Python-DSA/tree/master/0739-daily-temperatures) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Parul-kumari089/Python-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Parul-kumari089/Python-DSA/tree/master/0134-gas-station) |
+| [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0969-pancake-sorting](https://github.com/Parul-kumari089/Python-DSA/tree/master/0969-pancake-sorting) |
 ## Matrix
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |
 ## Bubble Sort
 |  |

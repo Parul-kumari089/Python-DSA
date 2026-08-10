@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0969-pancake-sorting](https://github.com/Parul-kumari089/Python-DSA/tree/master/0969-pancake-sorting) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Enumeration
 |  |
 | ------- |

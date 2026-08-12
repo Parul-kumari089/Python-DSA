@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Parul-kumari089/Python-DSA/tree/master/0739-daily-temperatures) |
+| [0896-monotonic-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Parul-kumari089/Python-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Parul-kumari089/Python-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
@@ -140,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parul-kumari089/Python-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Parul-kumari089/Python-DSA/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Parul-kumari089/Python-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Parul-kumari089/Python-DSA/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/Parul-kumari089/Python-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0605-can-place-flowers) |
 | [0969-pancake-sorting](https://github.com/Parul-kumari089/Python-DSA/tree/master/0969-pancake-sorting) |

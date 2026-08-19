@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Parul-kumari089/Python-DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Parul-kumari089/Python-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Parul-kumari089/Python-DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Parul-kumari089/Python-DSA/tree/master/0118-pascals-triangle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Parul-kumari089/Python-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parul-kumari089/Python-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parul-kumari089/Python-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |

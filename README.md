@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
 | [0969-pancake-sorting](https://github.com/Parul-kumari089/Python-DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1470-shuffle-the-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0912-sort-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Parul-kumari089/Python-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/Parul-kumari089/Python-DSA/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2485-find-the-pivot-integer](https://github.com/Parul-kumari089/Python-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/3370-smallest-number-with-all-set-bits) |

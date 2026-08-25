@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
 | [0969-pancake-sorting](https://github.com/Parul-kumari089/Python-DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 | [1470-shuffle-the-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
+| [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
+| [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->

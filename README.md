@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Parul-kumari089/Python-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0384-shuffle-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Parul-kumari089/Python-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Parul-kumari089/Python-DSA/tree/master/0561-array-partition) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Parul-kumari089/Python-DSA/tree/master/0307-range-sum-query-mutable) |
+| [0384-shuffle-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0384-shuffle-an-array) |
 | [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 ## Binary Indexed Tree
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
+| [0384-shuffle-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Parul-kumari089/Python-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->

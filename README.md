@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parul-kumari089/Python-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Parul-kumari089/Python-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Parul-kumari089/Python-DSA/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
+| [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |

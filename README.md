@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Parul-kumari089/Python-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/Parul-kumari089/Python-DSA/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/Parul-kumari089/Python-DSA/tree/master/2162-minimum-cost-to-set-cooking-time) |
@@ -385,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Parul-kumari089/Python-DSA/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Parul-kumari089/Python-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

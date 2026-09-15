@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Parul-kumari089/Python-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0932-beautiful-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/Parul-kumari089/Python-DSA/tree/master/2162-minimum-cost-to-set-cooking-time) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Parul-kumari089/Python-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Parul-kumari089/Python-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search

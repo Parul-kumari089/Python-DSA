@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Parul-kumari089/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Parul-kumari089/Python-DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Parul-kumari089/Python-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Parul-kumari089/Python-DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Parul-kumari089/Python-DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Parul-kumari089/Python-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Parul-kumari089/Python-DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/0384-shuffle-an-array) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parul-kumari089/Python-DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Parul-kumari089/Python-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |

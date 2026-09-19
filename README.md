@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Parul-kumari089/Python-DSA/tree/master/0268-missing-number) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Parul-kumari089/Python-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parul-kumari089/Python-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Parul-kumari089/Python-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Parul-kumari089/Python-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/0206-reverse-linked-list) |

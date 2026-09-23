@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Parul-kumari089/Python-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Parul-kumari089/Python-DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/Parul-kumari089/Python-DSA/tree/master/1108-defanging-an-ip-address) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Parul-kumari089/Python-DSA/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Parul-kumari089/Python-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

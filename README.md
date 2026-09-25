@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Parul-kumari089/Python-DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Parul-kumari089/Python-DSA/tree/master/0904-fruit-into-baskets) |
 | [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
+| [1370-increasing-decreasing-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/1370-increasing-decreasing-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Parul-kumari089/Python-DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/Parul-kumari089/Python-DSA/tree/master/1108-defanging-an-ip-address) |
+| [1370-increasing-decreasing-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/1370-increasing-decreasing-string) |
 | [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1370-increasing-decreasing-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/1370-increasing-decreasing-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3467-transform-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/3467-transform-array-by-parity) |

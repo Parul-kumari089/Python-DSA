@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1146-snapshot-array) |
 | [1470-shuffle-the-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parul-kumari089/Python-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |

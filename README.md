@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Parul-kumari089/Python-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Parul-kumari089/Python-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/Parul-kumari089/Python-DSA/tree/master/3467-transform-array-by-parity) |
+| [3708-longest-fibonacci-subarray](https://github.com/Parul-kumari089/Python-DSA/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Parul-kumari089/Python-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |

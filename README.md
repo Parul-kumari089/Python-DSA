@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parul-kumari089/Python-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
+| [2490-circular-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/2490-circular-sentence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |

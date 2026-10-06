@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Parul-kumari089/Python-DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parul-kumari089/Python-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Parul-kumari089/Python-DSA/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Parul-kumari089/Python-DSA/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Parul-kumari089/Python-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Parul-kumari089/Python-DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Parul-kumari089/Python-DSA/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Parul-kumari089/Python-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/Parul-kumari089/Python-DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/3498-reverse-degree-of-a-string) |

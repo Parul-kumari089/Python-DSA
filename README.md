@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parul-kumari089/Python-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Parul-kumari089/Python-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Parul-kumari089/Python-DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Parul-kumari089/Python-DSA/tree/master/0739-daily-temperatures) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Parul-kumari089/Python-DSA/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parul-kumari089/Python-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -461,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Parul-kumari089/Python-DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Parul-kumari089/Python-DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Parul-kumari089/Python-DSA/tree/master/0584-find-customer-referee) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parul-kumari089/Python-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Parul-kumari089/Python-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
